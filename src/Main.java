@@ -1,9 +1,14 @@
 
 public class Main {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	/*
 	 * What is the result of this code?
-	 * Qual é o resultado deste código?
+	 * Qual Ã© o resultado deste cÃ³digo?
 	 * 
 	 * 1 - It will not compile because of line 7
 	 * 2 - It will not compile because of line 11
